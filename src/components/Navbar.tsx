@@ -36,7 +36,7 @@ const Navbar = () => {
             <NavLink to="/contact" className={({ isActive }) => isActive ? 'nav-link-active  text-green-500' : 'nav-link text-green-600'}>
               Contact
             </NavLink>
-            <a href="tel:+2349012345678" className="btn-primary">
+            <a href="tel:+2348133715097" className="btn-primary">
               Get a Quote
             </a>
           </div>
